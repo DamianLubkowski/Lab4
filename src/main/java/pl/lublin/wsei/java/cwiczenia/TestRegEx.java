@@ -7,6 +7,7 @@ public class TestRegEx {
             "<media:thumbnail url=\"https://stat.gov.pl//gfx/portalinformacyjny/_thumbs/pl/defaultaktualnosci/5866/38/74/1/infografika_koniunktura_gospodarcza_08_2022_2,k1uUwl-caFOE6tCTiHtf.png\"/></media:content>\n" +
             "<description><![CDATA[ <div><img src=\"https://stat.gov.pl//gfx/portalinformacyjny/_thumbs/pl/defaultaktualnosci/5866/38/74/1/infografika_koniunktura_gospodarcza_08_2022_2,k1uUwl-caFOE6tCTiHtf.png\" alt=\"\" width=\"280\" height=\"212\"/></div> ]]></description></item>";
 
+
     public static void main(String[] args) {
 
     }
