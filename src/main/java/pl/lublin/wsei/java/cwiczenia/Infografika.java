@@ -11,7 +11,13 @@ public class Infografika {
     public Integer szerokosc;
     public Integer wysokosc;
 
+    private String tekst;
+
     public Infografika(String tekst) {
+        this.tekst = tekst;
+    }
+
+    public void print() {
         Pattern pat = Pattern.compile("<title><!\\[CDATA\\[(.*)\\]\\]<\\/title>");
         Matcher m = pat.matcher(tekst);
         if (m.find())
