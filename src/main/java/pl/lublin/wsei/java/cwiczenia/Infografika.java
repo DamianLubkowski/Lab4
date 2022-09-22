@@ -8,5 +8,7 @@ public class Infografika {
     public Integer szerokosc;
     public Integer wysokosc;
 
+    public Infografika(String text) {
 
+    }
 }
