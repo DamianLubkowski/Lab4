@@ -3,6 +3,6 @@ module com.example.lab4 {
     requires javafx.fxml;
 
 
-    opens com.example.lab4 to javafx.fxml;
-    exports com.example.lab4;
+    opens pl.lublin.wsei.java.cwiczenia to javafx.fxml;
+    exports pl.lublin.wsei.java.cwiczenia;
 }
